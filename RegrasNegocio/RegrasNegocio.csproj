@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1D5DB8DE-DCB5-4469-AE21-AD6657A39C23}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RegrasNegocio</RootNamespace>
+    <AssemblyName>RegrasNegocio</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlunoRegraNegocio.cs" />
+    <Compile Include="CargoRegraNegocio.cs" />
+    <Compile Include="CidadeRegraNegocio.cs" />
+    <Compile Include="CursoDisciplinaRegraNegocio.cs" />
+    <Compile Include="CursoRegraNegocio.cs" />
+    <Compile Include="DisciplinaRegraNegocio.cs" />
+    <Compile Include="EstadoRegraNegocio.cs" />
+    <Compile Include="GrauEscolarRegraNegocio.cs" />
+    <Compile Include="InstituicaoRegraNegocio.cs" />
+    <Compile Include="PeriodoDisciplinaRegraNegocio.cs" />
+    <Compile Include="PeriodoRegraNegocio.cs" />
+    <Compile Include="ProfessorDisciplinaRegraNegocio.cs" />
+    <Compile Include="ProfessorRegraNegocio.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecretariadoRegraNegocio.cs" />
+    <Compile Include="TurmaAlunoRegraNegocio.cs" />
+    <Compile Include="TurmaEtapaExameFinalAlunoRegraNegocio.cs" />
+    <Compile Include="TurmaEtapaExameFinalRegraNegocio.cs" />
+    <Compile Include="TurmaEtapaNotaAlunoRegraNegocio.cs" />
+    <Compile Include="TurmaEtapaRegraNegocio.cs" />
+    <Compile Include="TurmaFrequenciaAulaAlunoRegraNegocio.cs" />
+    <Compile Include="TurmaFrequenciaAulaRegraNegocio.cs" />
+    <Compile Include="TurmaPeriodoDisciplinaAlunosRegraNegocio.cs" />
+    <Compile Include="TurmaPeriodoDisciplinaRegraNegocio.cs" />
+    <Compile Include="TurmaPeriodoRegraNegocio.cs" />
+    <Compile Include="TurmaRegraNegocio.cs" />
+    <Compile Include="TurnoRegraNegocio.cs" />
+    <Compile Include="UsuarioPermissaoRegraNegocio.cs" />
+    <Compile Include="UsuarioRegraNegocio.cs" />
+    <Compile Include="ValidadorDados.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AcessoBancoDados\AcessoBancoDados.csproj">
+      <Project>{9004dbe1-9404-46ac-84d7-1b11d82a12c1}</Project>
+      <Name>AcessoBancoDados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoTransferencia\ObjetoTransferencia.csproj">
+      <Project>{b5701310-2127-450f-a3ff-a4265d0119db}</Project>
+      <Name>ObjetoTransferencia</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

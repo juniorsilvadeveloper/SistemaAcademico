@@ -1,0 +1,600 @@
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Consultas.FrmConsultarTurma.resources
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Principal.FrmTurma.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Consultas.FrmConsultarTurma.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Principal.FrmTurma.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Consultas.FrmConsultarTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Principal.FrmTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAcademico.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultar_Turma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaAluno.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAcademico.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Principal.FrmTurma.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaAluno.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurma.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCliente.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarPeriodo.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodo.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplinasMinistradas.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinasMinistradas.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaPeriodo.resources
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAcademico.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCliente.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplinasMinistradas.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinasMinistradas.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Principal.FrmTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAcademico.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCliente.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplinasMinistradas.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinasMinistradas.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Principal.FrmTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinaAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAcademico.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCliente.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplinasMinistradas.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinaAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinasMinistradas.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Principal.FrmTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaFrequenciaAula.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaFrequenciaAula.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaFrequenciaAula.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAcademico.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplinasMinistradas.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinaAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinasMinistradas.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodoDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Principal.FrmTurma.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaEtapaNotaAluno.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaFrequenciaAula.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaPeriodo.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuarioPermissao.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmBackupExportar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmBackupImportar.resources
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConfigurarConexaoBD.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.dll
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.dll
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.pdb
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\bin\Debug\RegrasNegocio.pdb
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmBackupExportar.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmBackupImportar.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConfigurarConexaoBD.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaFrequenciaAula.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurmaPeriodo.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarAluno.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAcademico.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmAluno.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCargo.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCargo.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCurso.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarCursoDisciplina.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplina.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarDisciplinasMinistradas.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarGrauEscolar.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarInstituicao.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarPeriodo.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessor.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarProfessorDisciplina.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarSecretariado.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarUsuario.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmConsultarTurma.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCurso.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmCursoDisciplina.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplina.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinaAluno.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmDisciplinasMinistradas.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmGrauEscolar.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmInstituicao.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmLogin.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodo.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPeriodoDisciplina.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessor.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmProfessorDisciplina.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSecretariado.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmSelecionarInstituicao.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Módulos.Acadêmico.Principal.FrmTurma.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaAluno.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaEtapaNotaAluno.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaFrequenciaAula.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmTurmaPeriodo.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuario.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmUsuarioPermissao.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CopyComplete
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb

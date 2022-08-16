@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7CFA0DB-4678-462C-82CB-1A056EEF7646}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SistemaAcademico</RootNamespace>
+    <AssemblyName>SistemaAcademico</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>academico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmBackupExportar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBackupExportar.Designer.cs">
+      <DependentUpon>FrmBackupExportar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBackupImportar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBackupImportar.Designer.cs">
+      <DependentUpon>FrmBackupImportar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfigurarConexaoBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfigurarConexaoBD.Designer.cs">
+      <DependentUpon>FrmConfigurarConexaoBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarTurmaFrequenciaAula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarTurmaFrequenciaAula.Designer.cs">
+      <DependentUpon>FrmConsultarTurmaFrequenciaAula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarTurmaPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarTurmaPeriodo.Designer.cs">
+      <DependentUpon>FrmConsultarTurmaPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarAluno.Designer.cs">
+      <DependentUpon>FrmConsultarAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAcademico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAcademico.Designer.cs">
+      <DependentUpon>FrmAcademico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAluno.Designer.cs">
+      <DependentUpon>FrmAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCargo.Designer.cs">
+      <DependentUpon>FrmCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarCargo.Designer.cs">
+      <DependentUpon>FrmConsultarCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarCurso.Designer.cs">
+      <DependentUpon>FrmConsultarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarCursoDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarCursoDisciplina.Designer.cs">
+      <DependentUpon>FrmConsultarCursoDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarDisciplina.Designer.cs">
+      <DependentUpon>FrmConsultarDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarDisciplinasMinistradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarDisciplinasMinistradas.Designer.cs">
+      <DependentUpon>FrmConsultarDisciplinasMinistradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarGrauEscolar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarGrauEscolar.Designer.cs">
+      <DependentUpon>FrmConsultarGrauEscolar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarInstituicao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarInstituicao.Designer.cs">
+      <DependentUpon>FrmConsultarInstituicao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarPeriodo.Designer.cs">
+      <DependentUpon>FrmConsultarPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarProfessor.Designer.cs">
+      <DependentUpon>FrmConsultarProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarProfessorDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarProfessorDisciplina.Designer.cs">
+      <DependentUpon>FrmConsultarProfessorDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarSecretariado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarSecretariado.Designer.cs">
+      <DependentUpon>FrmConsultarSecretariado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarUsuario.Designer.cs">
+      <DependentUpon>FrmConsultarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultarTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultarTurma.Designer.cs">
+      <DependentUpon>FrmConsultarTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCurso.Designer.cs">
+      <DependentUpon>FrmCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCursoDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCursoDisciplina.Designer.cs">
+      <DependentUpon>FrmCursoDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDisciplina.Designer.cs">
+      <DependentUpon>FrmDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDisciplinaAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDisciplinaAluno.Designer.cs">
+      <DependentUpon>FrmDisciplinaAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDisciplinasMinistradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDisciplinasMinistradas.Designer.cs">
+      <DependentUpon>FrmDisciplinasMinistradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGrauEscolar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGrauEscolar.Designer.cs">
+      <DependentUpon>FrmGrauEscolar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInstituicao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInstituicao.Designer.cs">
+      <DependentUpon>FrmInstituicao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPeriodo.Designer.cs">
+      <DependentUpon>FrmPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPeriodoDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPeriodoDisciplina.Designer.cs">
+      <DependentUpon>FrmPeriodoDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProfessor.Designer.cs">
+      <DependentUpon>FrmProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProfessorDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProfessorDisciplina.Designer.cs">
+      <DependentUpon>FrmProfessorDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSecretariado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSecretariado.Designer.cs">
+      <DependentUpon>FrmSecretariado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSelecionarInstituicao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSelecionarInstituicao.Designer.cs">
+      <DependentUpon>FrmSelecionarInstituicao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTurma.Designer.cs">
+      <DependentUpon>FrmTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTurmaAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTurmaAluno.Designer.cs">
+      <DependentUpon>FrmTurmaAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTurmaEtapaNotaAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTurmaEtapaNotaAluno.Designer.cs">
+      <DependentUpon>FrmTurmaEtapaNotaAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTurmaFrequenciaAula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTurmaFrequenciaAula.Designer.cs">
+      <DependentUpon>FrmTurmaFrequenciaAula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTurmaPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTurmaPeriodo.Designer.cs">
+      <DependentUpon>FrmTurmaPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuarioPermissao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuarioPermissao.Designer.cs">
+      <DependentUpon>FrmUsuarioPermissao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tela.cs" />
+    <Compile Include="ValidadorDados.cs" />
+    <EmbeddedResource Include="FrmBackupExportar.resx">
+      <DependentUpon>FrmBackupExportar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBackupImportar.resx">
+      <DependentUpon>FrmBackupImportar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfigurarConexaoBD.resx">
+      <DependentUpon>FrmConfigurarConexaoBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarTurmaFrequenciaAula.resx">
+      <DependentUpon>FrmConsultarTurmaFrequenciaAula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarTurmaPeriodo.resx">
+      <DependentUpon>FrmConsultarTurmaPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarAluno.resx">
+      <DependentUpon>FrmConsultarAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAcademico.resx">
+      <DependentUpon>FrmAcademico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAluno.resx">
+      <DependentUpon>FrmAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCargo.resx">
+      <DependentUpon>FrmCargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarCargo.resx">
+      <DependentUpon>FrmConsultarCargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarCurso.resx">
+      <DependentUpon>FrmConsultarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarCursoDisciplina.resx">
+      <DependentUpon>FrmConsultarCursoDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarDisciplina.resx">
+      <DependentUpon>FrmConsultarDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarDisciplinasMinistradas.resx">
+      <DependentUpon>FrmConsultarDisciplinasMinistradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarGrauEscolar.resx">
+      <DependentUpon>FrmConsultarGrauEscolar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarInstituicao.resx">
+      <DependentUpon>FrmConsultarInstituicao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarPeriodo.resx">
+      <DependentUpon>FrmConsultarPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarProfessor.resx">
+      <DependentUpon>FrmConsultarProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarProfessorDisciplina.resx">
+      <DependentUpon>FrmConsultarProfessorDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarSecretariado.resx">
+      <DependentUpon>FrmConsultarSecretariado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarUsuario.resx">
+      <DependentUpon>FrmConsultarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarTurma.resx">
+      <DependentUpon>FrmConsultarTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCurso.resx">
+      <DependentUpon>FrmCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCursoDisciplina.resx">
+      <DependentUpon>FrmCursoDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDisciplina.resx">
+      <DependentUpon>FrmDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDisciplinaAluno.resx">
+      <DependentUpon>FrmDisciplinaAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDisciplinasMinistradas.resx">
+      <DependentUpon>FrmDisciplinasMinistradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGrauEscolar.resx">
+      <DependentUpon>FrmGrauEscolar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInstituicao.resx">
+      <DependentUpon>FrmInstituicao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPeriodo.resx">
+      <DependentUpon>FrmPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPeriodoDisciplina.resx">
+      <DependentUpon>FrmPeriodoDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProfessor.resx">
+      <DependentUpon>FrmProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProfessorDisciplina.resx">
+      <DependentUpon>FrmProfessorDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSecretariado.resx">
+      <DependentUpon>FrmSecretariado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSelecionarInstituicao.resx">
+      <DependentUpon>FrmSelecionarInstituicao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTurma.resx">
+      <DependentUpon>FrmTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTurmaAluno.resx">
+      <DependentUpon>FrmTurmaAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTurmaEtapaNotaAluno.resx">
+      <DependentUpon>FrmTurmaEtapaNotaAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTurmaFrequenciaAula.resx">
+      <DependentUpon>FrmTurmaFrequenciaAula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTurmaPeriodo.resx">
+      <DependentUpon>FrmTurmaPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuarioPermissao.resx">
+      <DependentUpon>FrmUsuarioPermissao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AcessoBancoDados\AcessoBancoDados.csproj">
+      <Project>{9004dbe1-9404-46ac-84d7-1b11d82a12c1}</Project>
+      <Name>AcessoBancoDados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoTransferencia\ObjetoTransferencia.csproj">
+      <Project>{b5701310-2127-450f-a3ff-a4265d0119db}</Project>
+      <Name>ObjetoTransferencia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegrasNegocio\RegrasNegocio.csproj">
+      <Project>{1d5db8de-dcb5-4469-ae21-ad6657a39c23}</Project>
+      <Name>RegrasNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="academico.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

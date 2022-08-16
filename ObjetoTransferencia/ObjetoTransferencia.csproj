@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B5701310-2127-450F-A3FF-A4265D0119DB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ObjetoTransferencia</RootNamespace>
+    <AssemblyName>ObjetoTransferencia</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aluno.cs" />
+    <Compile Include="AlunoColecao.cs" />
+    <Compile Include="Cargo.cs" />
+    <Compile Include="CargoColecao.cs" />
+    <Compile Include="Cidade.cs" />
+    <Compile Include="CidadeColecao.cs" />
+    <Compile Include="Curso.cs" />
+    <Compile Include="CursoColecao.cs" />
+    <Compile Include="CursoDisciplina.cs" />
+    <Compile Include="CursoDisciplinaColecao.cs" />
+    <Compile Include="Disciplina.cs" />
+    <Compile Include="DisciplinaColecao.cs" />
+    <Compile Include="Estado.cs" />
+    <Compile Include="EstadoColecao.cs" />
+    <Compile Include="GrauEscolar.cs" />
+    <Compile Include="GrauEscolarColecao.cs" />
+    <Compile Include="Instituicao.cs" />
+    <Compile Include="InstituicaoColecao.cs" />
+    <Compile Include="LoginSistema.cs" />
+    <Compile Include="Pais.cs" />
+    <Compile Include="PaisColecao.cs" />
+    <Compile Include="Periodo.cs" />
+    <Compile Include="PeriodoColecao.cs" />
+    <Compile Include="PeriodoDisciplina.cs" />
+    <Compile Include="PeriodoDisciplinaColecao.cs" />
+    <Compile Include="Pessoa.cs" />
+    <Compile Include="Professor.cs" />
+    <Compile Include="ProfessorColecao.cs" />
+    <Compile Include="ProfessorDisciplina.cs" />
+    <Compile Include="ProfessorDisciplinaColecao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Secretariado.cs" />
+    <Compile Include="SecretariadoColecao.cs" />
+    <Compile Include="SituacaoAlunoDisciplina.cs" />
+    <Compile Include="SituacaoAlunoDisciplinaColecao.cs" />
+    <Compile Include="SituacaoCurso.cs" />
+    <Compile Include="SituacaoCursoColecao.cs" />
+    <Compile Include="SituacaoTurma.cs" />
+    <Compile Include="SituacaoTurmaColecao.cs" />
+    <Compile Include="Turma.cs" />
+    <Compile Include="TurmaAlunoColecao.cs" />
+    <Compile Include="TurmaColecao.cs" />
+    <Compile Include="TurmaEtapa.cs" />
+    <Compile Include="TurmaEtapaColecao.cs" />
+    <Compile Include="TurmaEtapaExameFinal.cs" />
+    <Compile Include="TurmaEtapaExameFinalAluno.cs" />
+    <Compile Include="TurmaEtapaExameFinalAlunoColecao.cs" />
+    <Compile Include="TurmaEtapaExameFinalColecao.cs" />
+    <Compile Include="TurmaEtapaNotaAluno.cs" />
+    <Compile Include="TurmaEtapaNotaAlunoColecao.cs" />
+    <Compile Include="TurmaFrequenciaAula.cs" />
+    <Compile Include="TurmaFrequenciaAulaAluno.cs" />
+    <Compile Include="TurmaFrequenciaAulaAlunoColecao.cs" />
+    <Compile Include="TurmaFrequenciaAulaColecao.cs" />
+    <Compile Include="TurmaPeriodo.cs" />
+    <Compile Include="TurmaAluno.cs" />
+    <Compile Include="TurmaPeriodoColecao.cs" />
+    <Compile Include="TurmaPeriodoDisciplina.cs" />
+    <Compile Include="TurmaPeriodoDisciplinaAlunos.cs" />
+    <Compile Include="TurmaPeriodoDisciplinaAlunosColecao.cs" />
+    <Compile Include="TurmaPeriodoDisciplinaColecao.cs" />
+    <Compile Include="Turno.cs" />
+    <Compile Include="TurnoColecao.cs" />
+    <Compile Include="Usuario.cs" />
+    <Compile Include="UsuarioColecao.cs" />
+    <Compile Include="UsuarioPermissao.cs" />
+    <Compile Include="UsuarioPermissaoColecao.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

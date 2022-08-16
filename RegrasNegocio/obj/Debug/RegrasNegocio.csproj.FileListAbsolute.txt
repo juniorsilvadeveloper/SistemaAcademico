@@ -1,0 +1,156 @@
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\Nova pasta\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\55359\Documents\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico 03082021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\Nova pasta (3)\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\SistemaAcadêmico - Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\55359\Desktop\Sistema Acadêmico Júnior\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 01122021\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 05032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 06032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\julia\OneDrive\Área de Trabalho\Sistema Acadêmico 28032022\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.pdb
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\estudo-pc\Desktop\Sistema Acadêmico - Projeto Final\Sistemaacademico\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
